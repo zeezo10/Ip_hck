@@ -1,0 +1,53 @@
+[
+    {
+      "title": "Pasta",
+      "ingredients": "pasta, tomato, salt, water",
+      "UserId": 1
+    },
+    {
+      "title": "Chicken Stir Fry",
+      "ingredients": "chicken, soy sauce, broccoli, bell pepper, garlic",
+      "UserId": 2
+    },
+    {
+      "title": "Vegetable Curry",
+      "ingredients": "potato, carrot, peas, curry powder, coconut milk",
+      "UserId": 1
+    },
+    {
+      "title": "Beef Tacos",
+      "ingredients": "ground beef, taco shells, lettuce, cheese, salsa",
+      "UserId": 1
+    },
+    {
+      "title": "Fruit Salad",
+      "ingredients": "apple, banana, grapes, orange, honey",
+      "UserId": 2
+    },
+    {
+      "title": "Mushroom Risotto",
+      "ingredients": "arborio rice, mushrooms, onion, parmesan cheese, white wine",
+      "UserId": 1
+    },
+    {
+      "title": "Caesar Salad",
+      "ingredients": "romaine lettuce, croutons, parmesan cheese, Caesar dressing, chicken breast",
+      "UserId": 1
+    },
+    {
+      "title": "Spaghetti Bolognese",
+      "ingredients": "spaghetti, ground beef, onion, tomato sauce, garlic",
+      "UserId": 2
+    },
+    {
+      "title": "Pancakes",
+      "ingredients": "flour, milk, egg, butter, syrup",
+      "UserId": 1
+    },
+    {
+      "title": "Lentil Soup",
+      "ingredients": "lentils, carrot, celery, tomato, cumin",
+      "UserId": 1
+    }
+  ]
+  
